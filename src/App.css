@@ -1,0 +1,35 @@
+body {
+  padding-top: 40px;
+}
+
+label {
+  display: block !important;
+}
+
+aside ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+aside ul li {
+  margin-bottom: 10px;
+}
+
+aside ul span {
+  float: right;
+}
+
+.team h3 {
+  font-size: 18px;
+}
+
+.team .score {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.clock {
+  font-size: 40px;
+  font-weight: bold;
+}
